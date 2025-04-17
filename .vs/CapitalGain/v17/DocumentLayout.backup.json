@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\u011162\\OneDrive - XP Inc\\\u00C1rea de Trabalho\\capital-gain\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09E46E4D-786A-4603-BCC2-5E67A9B0385D}|src\\App\\CapitalGain.csproj|c:\\users\\u011162\\onedrive - xp inc\\\u00E1rea de trabalho\\capital-gain\\src\\app\\features\\stocks\\services\\stockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E46E4D-786A-4603-BCC2-5E67A9B0385D}|src\\App\\CapitalGain.csproj|solutionrelative:src\\app\\features\\stocks\\services\\stockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82AD6C9-76AE-4A65-B3A6-27AC21596FAB}|tests\\UnitTests\\CapitalGain.UnitTests.csproj|c:\\users\\u011162\\onedrive - xp inc\\\u00E1rea de trabalho\\capital-gain\\tests\\unittests\\features\\entities\\stocktests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82AD6C9-76AE-4A65-B3A6-27AC21596FAB}|tests\\UnitTests\\CapitalGain.UnitTests.csproj|solutionrelative:tests\\unittests\\features\\entities\\stocktests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82AD6C9-76AE-4A65-B3A6-27AC21596FAB}|tests\\UnitTests\\CapitalGain.UnitTests.csproj|c:\\users\\u011162\\onedrive - xp inc\\\u00E1rea de trabalho\\capital-gain\\tests\\unittests\\core\\fileprocessor\\readertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82AD6C9-76AE-4A65-B3A6-27AC21596FAB}|tests\\UnitTests\\CapitalGain.UnitTests.csproj|solutionrelative:tests\\unittests\\core\\fileprocessor\\readertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E46E4D-786A-4603-BCC2-5E67A9B0385D}|src\\App\\CapitalGain.csproj|c:\\users\\u011162\\onedrive - xp inc\\\u00E1rea de trabalho\\capital-gain\\src\\app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E46E4D-786A-4603-BCC2-5E67A9B0385D}|src\\App\\CapitalGain.csproj|solutionrelative:src\\app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E46E4D-786A-4603-BCC2-5E67A9B0385D}|src\\App\\CapitalGain.csproj|c:\\users\\u011162\\onedrive - xp inc\\\u00E1rea de trabalho\\capital-gain\\src\\app\\features\\stocks\\services\\istockservice.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{09E46E4D-786A-4603-BCC2-5E67A9B0385D}|src\\App\\CapitalGain.csproj|solutionrelative:src\\app\\features\\stocks\\services\\istockservice.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E46E4D-786A-4603-BCC2-5E67A9B0385D}|src\\App\\CapitalGain.csproj|c:\\users\\u011162\\onedrive - xp inc\\\u00E1rea de trabalho\\capital-gain\\src\\app\\core\\fileprocessor\\reader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E46E4D-786A-4603-BCC2-5E67A9B0385D}|src\\App\\CapitalGain.csproj|solutionrelative:src\\app\\core\\fileprocessor\\reader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E46E4D-786A-4603-BCC2-5E67A9B0385D}|src\\App\\CapitalGain.csproj|c:\\users\\u011162\\onedrive - xp inc\\\u00E1rea de trabalho\\capital-gain\\src\\app\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{09E46E4D-786A-4603-BCC2-5E67A9B0385D}|src\\App\\CapitalGain.csproj|solutionrelative:src\\app\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IStockService.cs",
+              "DocumentMoniker": "C:\\Users\\u011162\\OneDrive - XP Inc\\\u00C1rea de Trabalho\\capital-gain\\src\\App\\Features\\Stocks\\Services\\IStockService.cs",
+              "RelativeDocumentMoniker": "src\\App\\Features\\Stocks\\Services\\IStockService.cs",
+              "ToolTip": "C:\\Users\\u011162\\OneDrive - XP Inc\\\u00C1rea de Trabalho\\capital-gain\\src\\App\\Features\\Stocks\\Services\\IStockService.cs",
+              "RelativeToolTip": "src\\App\\Features\\Stocks\\Services\\IStockService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T17:31:19.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StockService.cs",
+              "DocumentMoniker": "C:\\Users\\u011162\\OneDrive - XP Inc\\\u00C1rea de Trabalho\\capital-gain\\src\\App\\Features\\Stocks\\Services\\StockService.cs",
+              "RelativeDocumentMoniker": "src\\App\\Features\\Stocks\\Services\\StockService.cs",
+              "ToolTip": "C:\\Users\\u011162\\OneDrive - XP Inc\\\u00C1rea de Trabalho\\capital-gain\\src\\App\\Features\\Stocks\\Services\\StockService.cs",
+              "RelativeToolTip": "src\\App\\Features\\Stocks\\Services\\StockService.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T17:18:18.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Reader.cs",
+              "DocumentMoniker": "C:\\Users\\u011162\\OneDrive - XP Inc\\\u00C1rea de Trabalho\\capital-gain\\src\\App\\Core\\FileProcessor\\Reader.cs",
+              "RelativeDocumentMoniker": "src\\App\\Core\\FileProcessor\\Reader.cs",
+              "ToolTip": "C:\\Users\\u011162\\OneDrive - XP Inc\\\u00C1rea de Trabalho\\capital-gain\\src\\App\\Core\\FileProcessor\\Reader.cs",
+              "RelativeToolTip": "src\\App\\Core\\FileProcessor\\Reader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T17:14:14.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\u011162\\OneDrive - XP Inc\\\u00C1rea de Trabalho\\capital-gain\\src\\App\\README.md",
+              "RelativeDocumentMoniker": "src\\App\\README.md",
+              "ToolTip": "C:\\Users\\u011162\\OneDrive - XP Inc\\\u00C1rea de Trabalho\\capital-gain\\src\\App\\README.md",
+              "RelativeToolTip": "src\\App\\README.md",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-04-16T17:02:55.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\u011162\\OneDrive - XP Inc\\\u00C1rea de Trabalho\\capital-gain\\src\\App\\Program.cs",
+              "RelativeDocumentMoniker": "src\\App\\Program.cs",
+              "ToolTip": "C:\\Users\\u011162\\OneDrive - XP Inc\\\u00C1rea de Trabalho\\capital-gain\\src\\App\\Program.cs",
+              "RelativeToolTip": "src\\App\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T17:02:11.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReaderTests.cs",
+              "DocumentMoniker": "C:\\Users\\u011162\\OneDrive - XP Inc\\\u00C1rea de Trabalho\\capital-gain\\tests\\UnitTests\\Core\\FileProcessor\\ReaderTests.cs",
+              "RelativeDocumentMoniker": "tests\\UnitTests\\Core\\FileProcessor\\ReaderTests.cs",
+              "ToolTip": "C:\\Users\\u011162\\OneDrive - XP Inc\\\u00C1rea de Trabalho\\capital-gain\\tests\\UnitTests\\Core\\FileProcessor\\ReaderTests.cs",
+              "RelativeToolTip": "tests\\UnitTests\\Core\\FileProcessor\\ReaderTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T17:01:54.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StockTests.cs",
+              "DocumentMoniker": "C:\\Users\\u011162\\OneDrive - XP Inc\\\u00C1rea de Trabalho\\capital-gain\\tests\\UnitTests\\Features\\Entities\\StockTests.cs",
+              "RelativeDocumentMoniker": "tests\\UnitTests\\Features\\Entities\\StockTests.cs",
+              "ToolTip": "C:\\Users\\u011162\\OneDrive - XP Inc\\\u00C1rea de Trabalho\\capital-gain\\tests\\UnitTests\\Features\\Entities\\StockTests.cs",
+              "RelativeToolTip": "tests\\UnitTests\\Features\\Entities\\StockTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T16:26:29.73Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

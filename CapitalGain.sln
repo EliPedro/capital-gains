@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35323.107
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapitalGain", "src\App\CapitalGain.csproj", "{09E46E4D-786A-4603-BCC2-5E67A9B0385D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapitalGain.UnitTests", "tests\UnitTests\CapitalGain.UnitTests.csproj", "{B82AD6C9-76AE-4A65-B3A6-27AC21596FAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09E46E4D-786A-4603-BCC2-5E67A9B0385D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09E46E4D-786A-4603-BCC2-5E67A9B0385D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09E46E4D-786A-4603-BCC2-5E67A9B0385D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09E46E4D-786A-4603-BCC2-5E67A9B0385D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B82AD6C9-76AE-4A65-B3A6-27AC21596FAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B82AD6C9-76AE-4A65-B3A6-27AC21596FAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B82AD6C9-76AE-4A65-B3A6-27AC21596FAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B82AD6C9-76AE-4A65-B3A6-27AC21596FAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC7E62B1-3907-4A42-81F4-D09F125300AF}
+	EndGlobalSection
+EndGlobal
